@@ -1,7 +1,8 @@
-layout: page
+---
+layout: default
 title: "Stability badges"
 permalink: /stability
-
+---
 # Stability badges
 
 Software stability badges and their definitions.

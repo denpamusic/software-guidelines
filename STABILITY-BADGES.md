@@ -1,4 +1,6 @@
-Also: [Productionisation checklist](PRODUCTIONISATION-CHECKLIST.md)
+layout: page
+title: "Stability badges"
+permalink: /stability
 
 # Stability badges
 

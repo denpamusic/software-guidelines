@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Software guidelines"
+permalink: /
+---
 # Software guidelines
 
 Various software engineering guidelines, checklists and best practices.

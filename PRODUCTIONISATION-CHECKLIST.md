@@ -1,4 +1,4 @@
-# Productionisation Checklist
+# Productionisation checklist
 
 Checklist of things to consider when [productionizing](https://en.wikipedia.org/wiki/Productionisation) a piece of software.
 

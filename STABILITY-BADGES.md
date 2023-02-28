@@ -1,6 +1,6 @@
 Also: [Productionisation checklist](PRODUCTIONISATION-CHECKLIST.md)
 
-# stability-badges
+# Stability badges
 
 Software stability badges and their definitions.
 
